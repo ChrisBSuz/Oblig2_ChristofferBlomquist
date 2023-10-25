@@ -1,6 +1,5 @@
-import org.junit.Test; //Imported and downloaded the correct JUnit with Testers.
-import static org.junit.Assert.assertFalse; //Imported and downloaded the correct JUnit
-import static org.junit.Assert.assertTrue; //Imported and downloaded the correct JUnit
+import org.junit.jupiter.api.Test; //Imported and downloaded the correct JUnit with Testers.
+import static org.junit.jupiter.api.Assertions.*;
 
 public class LeapYearTest {
 
